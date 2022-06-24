@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#9D1F21</color>
+    <color name="purple_500">#9D1F21</color>
+    <color name="purple_700">#9D1F21</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black_40">#65000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#898989</color>
+    <color name="grayDark">#777777</color>
+    <color name="red">#FE0000</color>
+    <color name="blue">#518EBF</color>
+    <color name="green">#00FF0A</color>
+    <color name="school_bus_yellow">#FFDD00</color>
+    <color name="black_50">#46000000</color>
+
+</resources>
